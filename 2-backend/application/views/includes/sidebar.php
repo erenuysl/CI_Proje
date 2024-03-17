@@ -21,7 +21,7 @@
               <div class="menu-title">Gösterge Paneli</div>
             </a>
             <ul>
-              <li><a href="<?php echo base_url("/branches")?>"><i class="material-icons-outlined">arrow_right</i>Kullanıcılar</a>
+              <li><a href="<?php echo base_url("/branches")?>"><i class="material-icons-outlined">arrow_right</i>Şubeler</a>
               </li>
               <li><a href="<?php echo base_url("/brands")?>"><i class="material-icons-outlined">arrow_right</i>Markalar</a>
               </li>
